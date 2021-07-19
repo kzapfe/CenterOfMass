@@ -26,7 +26,7 @@ the Center of Mass and to obtain trajectories from them.
 
 Contents is as follows:
 
- - The functions for Center of Mass are in CenterofMass.jl
+ - The functions for Center of Mass are in CentrosdeMasa.jl
  - The functions for trayectories are in FunctionsTrajectories.jl 
  - Center_of_Mass_workedExample.ipynb contains a fully worked example.
  - Trajectories.jl contains a minimal example. 
